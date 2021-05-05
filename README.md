@@ -1,2 +1,2 @@
-# Scripts
-Collection of Generic Python Scripts
+# daily
+Responses to r/dailyprogrammer questions
