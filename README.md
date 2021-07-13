@@ -1,2 +1,2 @@
 # daily
-Responses to r/dailyprogrammer questions
+Random python scripts
